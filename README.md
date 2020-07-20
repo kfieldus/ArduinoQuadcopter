@@ -1,6 +1,9 @@
 # ArduinoQuadcopter
 The Arduino Quadcopter and Controller Code which made up my Quadcopter Project. 
 
+### **Please Note**
+This project code is given freely with no support or expectations to be developed further.
+
 ## Whats inside this project?
 Project Sketches by Kyle Fieldus - Within this directory are all of the sketch files, created by myself, that make the project. I have grouped the files into folders named after the element of the project they are associated with. (i.e. Controller, Quadcopter, DashboardGUI)
 
